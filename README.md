@@ -25,3 +25,4 @@ Obtain an API key:
 - After signing up, you will be redirected to the dashboard page. On the dashboard page, click on the "API Keys" tab in the left-hand menu.
 - On the API Keys page, click the "Generate API Key" button to create a new API key.
 - A pop-up window will appear with your API key. Click the "Copy" button to copy the API key to your clipboard.
+- run the code
