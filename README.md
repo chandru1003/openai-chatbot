@@ -13,3 +13,15 @@ This description provides an overview of the chatbot's capabilities and the tech
 - stop: This is a string or list of strings specifying the tokens (i.e., words or punctuation) at which the OpenAI API should stop generating the response. If this parameter is not provided, the API will generate the response until it reaches the maximum number of tokens specified by max_tokens.
 
 - temperature: This is a float value between 0 and 1 specifying the "creativity" or randomness of the chatGPT model's responses. A lower temperature will result in more predictable responses, while a higher temperature will allow the model to generate more varied and creative responses.
+
+Here is a tutorial on how to use chatGPT to build a chatbot:
+
+Install the necessary libraries:
+To use chatGPT, you will need to install the OpenAI API and the openai Python library.
+
+    pip install openai
+Obtain an API key:
+- Sign up for an OpenAI account at https://beta.openai.com/signup
+- After signing up, you will be redirected to the dashboard page. On the dashboard page, click on the "API Keys" tab in the left-hand menu.
+- On the API Keys page, click the "Generate API Key" button to create a new API key.
+- A pop-up window will appear with your API key. Click the "Copy" button to copy the API key to your clipboard.
